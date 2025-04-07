@@ -1,2 +1,2 @@
-# pk7-marketing-site
+# pk7-ma
 Site institucional da PK7 Marketing Digital
